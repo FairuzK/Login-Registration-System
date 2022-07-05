@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1657013696 source:c:\users\noah\desktop\c++\registration&loginsystem\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
